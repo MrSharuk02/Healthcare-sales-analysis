@@ -7,5 +7,4 @@ In the dynamic landscape of the healthcare industry, understanding sales data is
 - Insurance Analysis
 - Patient Care Analysis
 - Financial Analysis
-- Length of Stay Analysis
 - Patient Outcome Analysis
